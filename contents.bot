@@ -86,5 +86,5 @@ To start a custom game, send **{prefix}play \`\`\`map\`\`\`** or **{prefix}play 
 {customhelp}
 {customlinks}
 Original game map|https://github.com/Samrux/Pac-Man-Bot/blob/master/bin/map.bot
-Custom map examples|https://github.com/Samrux/Pac-Man-Bot/blob/master/bin/Example%20custom%20maps.txt
+Custom map examples|https://github.com/Samrux/Pac-Man-Bot/blob/master/Example%20custom%20maps.txt
 {customlinks}
