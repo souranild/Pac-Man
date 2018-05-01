@@ -54,14 +54,14 @@ Library|Discord.Net 2.0 (C#)
 @ 'Welcome to Pac-Man Bot!';
 
 #Controls:
-Add or remove a reaction to give input. The arrow emojis will move Pac-Man and change his direction, and the wait emoji will skip a turn.
+This game is played in turns by adding or removing a reaction. The arrow emotes will move Pac-Man and the wait emote will skip a turn.
 Due to the Discord rate-limit the game can be laggy, so please do one action at a time to prevent strange behavior!
 To win, you must collect all the pellets, while avoiding the ghosts. Try to get a high score!
 
 #Commands: @
-'{prefix}refresh' - Move game to the bottom of chat
-'{prefix}end' - End game if you started it
-'{prefix}help' and '{prefix}about' - More information;
+\"{prefix}refresh\"/\"{prefix}refresh m\" - Move game to the bottom of chat
+\"{prefix}end\" - End game if you started it, or for moderators
+\"{prefix}help\" and \"{prefix}about\" - More information;
 
 #Tips:
 • Each eaten ghost during the same power mode yields twice as many points as the last!
