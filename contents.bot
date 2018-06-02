@@ -135,10 +135,10 @@ Block!{0}
 Dodge!{0}
 Critical pet!{2}
 Critical pet!{3}
-Petting failure!{0}
+Petting failure! (-2){-2}
 Petting combo x2{2}
 Petting combo x3{3}
-Combo breaker! (+10){10}
+Combo breaker! (+6){6}
 Error: Not enough pets{0}
 You try to pet your pet, but you miss.{0}
 You try to pet your pet, but it pets you instead.
@@ -163,6 +163,7 @@ pet.
 Pet.
 PET
 Pat? (-1){-1}
+Pot. (-2){-2}
 🎺
 Pet pet pet{3}
 pet pet pet pet pet pet pet{7}
@@ -181,6 +182,7 @@ You take your chance and attempt a high-risk quadruple flying spin pet. You did 
 Your pet congratulates you for such a fantastic pet.
 That pet wasn't very good, but your pet acts happy so as to not let you down.
 Maybe petting isn't your thing. (-3){-3}
+PETA is trying to sue you for petting so much. (-5){-5}
 How many pets could a pet pet if a pet could pet pets?
 Of so many pets, you choose this one to pet.
 Your pet needs more petting.
@@ -213,6 +215,7 @@ Your pet peeks out of your screen and you reach out to pet it.
 Repeating the word \"pet\" so much gets kind of tiresome, but it's still funny.
 You wonder how long it took this bot's developer to write a hundred different petting messages. The developer wonders if you wonder if he wonders if you wonder.
 Perhaps mankind was not meant to pet this much.
-Your pet is unpettable at the moment, but appreciates the attempt.{0}"
+Your pet is unpettable at the moment, but appreciates the attempt.{0}
+Unknown pet command. Just kidding."
 
 }
