@@ -135,16 +135,19 @@ Dodge!
 Critical pet!
 Critical pet!
 Petting failure!
+Petting combo x2
+Petting combo x3
+Combo breaker!
 Error: Not enough pets
 You try to pet your pet, but you miss.
 You try to pet your pet, but it pets you instead.
 You try to pet your pet, but another person's pet pushes it aside so that you pet it instead. You pet them both.
-You try to pet your pet, but another person's pet pushes it aside and you end up petting it instead.
+You try to pet your pet, but another person's pet pushes it aside and you end up petting theirs instead.
 You try to pet your pet, but it melts in excitement before you even get to do it. You now have a pet puddle. Awesome.
 You examine your pet. Yup, it's pet-ready.
 Petting check successful!
 You roll a natural 1. You trip and accidentally pet yourself.
-You roll a natural 20. Your pet reaches a new plane of petting.
+You roll a natural 20. Your pet shined empowered by the magic of the ancient pet-gods.
 Roll for initiative.
 Petting Skill -1
 Petting Skill +5
@@ -152,7 +155,7 @@ Petting Skill +10
 Your petting count increases by 1.
 Your petting count increases by 1. You feel amused.
 Your petting count increases by 1. Your petting skill is simply unmatched.
-You feel amused by all these pets.
+You feel entertained by all these pets.
 pet
 pet.
 Pet.
@@ -165,6 +168,10 @@ more.
 Nice pet!
 Good pet!
 Great pet!
+Double pet!
+Triple pet!
+Quadruple pet!
+Super rare quintuple pet!
 You feel like that last pet was pretty good.
 Yessss, perfect pet.
 You take your chance and attempt a high-risk quadruple flying spin pet. You fail, but your pet looks impressed anyway.
@@ -204,6 +211,6 @@ Your pet peeks out of its image's thumbnail and you pet your screen. You feel we
 Repeating the word \"pet\" so much gets kind of tiresome, but it's still funny.
 You wonder how long it took this bot's developer to write a hundred different petting messages. The developer wonders if you wonder if he wonders if you wonder.
 Perhaps mankind was not meant to pet this much.
-Your pet is unpettable but appreciates the attempt."
+Your pet is unpettable at the moment, but appreciates the attempt."
 
 }
