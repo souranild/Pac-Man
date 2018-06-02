@@ -126,7 +126,7 @@ You pet your pet. Suddenly, the sky opens up, and a milliard pet-angels descend 
 You pet your pet. Your pet wonders what type of pet it is.
 You pet your pet. It's been a long day.
 You pet your pet. It loves it!
-Y̶̴o̴u̷̡ ̛͞pet̶̛͟ ͟yo҉u̶͟r ̛͘p̧͞e̴t.͟͠͡{3}
+Y̶̴o̴u̷̡ ̛͞pet̶̛͟ ͟yo҉u̶͟r ̛͘p̧͞e̴t͡{3}
 You pat your pet instead. It looks dissapointed. (-1){-1}
 This is your chance to pet!
 The petting intensifies.
@@ -142,7 +142,7 @@ Combo breaker! (+10){10}
 Error: Not enough pets{0}
 You try to pet your pet, but you miss.{0}
 You try to pet your pet, but it pets you instead.
-You try to pet your pet, but another person's pet pushes it aside so that you pet it instead. You pet them both. {2}
+You try to pet your pet, but another person's pet pushes it aside so that you pet it instead. You pet them both. (+2){2}
 You try to pet your pet, but another person's pet pushes it aside and you end up petting theirs instead.
 You try to pet your pet, but it melts in excitement before you even get to do it. You now have a pet puddle. Awesome.
 You examine your pet. Yup, it's pet-ready.
@@ -162,10 +162,10 @@ pet
 pet.
 Pet.
 PET
-Pat?{-1}
+Pat? (-1){-1}
 🎺
-Pet pet pet
-pet pet pet pet pet pet pet pet pet pet pet pet pet pet pet
+Pet pet pet{3}
+pet pet pet pet pet pet pet{7}
 more.
 Nice pet!
 Good pet!
@@ -175,16 +175,16 @@ Triple pet!{3}
 Quadruple pet!{4}
 Super rare quintuple pet!{5}
 You feel like that last pet was pretty good. (+2){2}
-Yessss, perfect pet. (+4){4}
+Yessss, perfect pet. (+3){3}
 You take your chance and attempt a high-risk quadruple flying spin pet. You fail, but your pet looks impressed anyway.{0}
 You take your chance and attempt a high-risk quadruple flying spin pet. You did it! Your pet claps. (+16){16}
 Your pet congratulates you for such a fantastic pet.
 That pet wasn't very good, but your pet acts happy so as to not let you down.
-Maybe petting isn't your thing.
+Maybe petting isn't your thing. (-3){-3}
 How many pets could a pet pet if a pet could pet pets?
 Of so many pets, you choose this one to pet.
 Your pet needs more petting.
-Your pet honestly feels little tired of petting, but it tries to hide it.
+Your pet honestly feels a little tired of petting, but it tries to hide it.
 Your pet approves.
 Your pet is not impressed.
 Your pet loves it.
