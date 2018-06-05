@@ -140,8 +140,8 @@ Dodge!{0}
 Critical pet!{2}
 Critical pet!{3}
 Petting failure!{-2}
-Petting combo x2{2}{hide}
-Petting combo x3{3}{hide}
+Petting combo x2{2}
+Petting combo x3{3}
 Combo breaker!{6}
 Error: Not enough pets{0}
 You try to pet your pet, but you miss.{0}
