@@ -175,10 +175,10 @@ pet pet pet pet pet pet pet{7}{hide}
 more.{0}
 Nice pet!
 Great pet!
-Double pet!{2}{hide}
-Triple pet!{3}{hide}
-Quadruple pet!{4}{hide}
-Super rare quintuple pet!{5}{hide}
+Double pet!{2}
+Triple pet!{3}
+Quadruple pet!{4}
+Super rare quintuple pet!{5}
 You feel like that last pet was pretty good.{2}
 Yessss, perfect pet.{3}
 You take your chance and attempt a high-risk quadruple flying spin pet. You fail, but your pet looks impressed anyway.{0}
@@ -205,7 +205,6 @@ Want moar pets!
 Whoa, pets
 wow, so pet, much petting{2}
 It's funny because *pet* is both a noun and a verb{2}
-So long, and thanks for all the pets{4}
 Is that a pet or are you just happy to see me?
 Petting isn't so hard after all.{2}
 -*Excited petting noises*-
@@ -234,9 +233,10 @@ You perform a super pet. Your pet super-pets you back.{20}
 You super-pet yourself. Your pet super-pets itself.{20}
 Perhaps mankind was not meant to pet this much.{10}
 You *reaaaaaally* pet your pet.{10}
-Vigintuple pet!{20}{hide}
+Vigintuple pet!{20}
 You pet with sixteen hands.{16}
 ЧФЦ РЄГ ЧФЦЯ РЄГ{30}
+So long, and thanks for all the pets{42}
 pet pet pet pet pet pet pet pet pet pet pet pet pet pet pet pet pet pet pet pet pet pet pet pet pet pet pet pet pet pet{30}{hide}
 You perform a quintuple flaming razor pet. Your pet stares in awe.{50}
 You roll a natural 120. The earth crumbles around you as ancient pet-denizens emerge from the depths, and assist you in your petting.{100}
