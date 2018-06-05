@@ -153,7 +153,7 @@ You try to pet your pet, but it melts in excitement before you even get to do it
 You examine your pet. Yup, it's pet-ready.
 Petting check successful.
 You roll a natural 1. You trip and accidentally pet yourself.{-1}
-You roll a natural 20. Your pet glows empowered by the magic of the ancient pet-gods.{10}
+You roll a natural 20. Your pet glows empowered by the magic of ancient pet-denizens.{12}
 Roll for initiative.{0}
 Petting Skill downgrade{-1}
 Petting Skill bonus{3}
@@ -203,7 +203,7 @@ Good pet, best friend.{2}
 Need more pets!
 Want moar pets!
 Whoa, pets
-wow, so pet, much petting{2}
+wow, so pet, much petting{11}
 It's funny because *pet* is both a noun and a verb{2}
 Is that a pet or are you just happy to see me?
 Petting isn't so hard after all.{2}
@@ -216,7 +216,7 @@ You loudly exclaim the word \"pet\" instead. It works, somehow.
 You ran out of pets! Wait, you found some more.
 Your pet peeks out of your screen and you reach out to pet it.
 Repeating the word \"pet\" so much gets kind of tiresome, but it's still funny.
-You wonder how long it took this bot's developer to write a hundred different petting messages. The developer wonders if you wonder if he wonders if you wonder.
+You wonder how long it took this bot's developer to write a hundred different petting messages. The developer wonders if you wonder if he wonders if you wonder.{4}
 Your pet is unpettable at the moment, but appreciates the attempt.{0}
 Unknown pet command! Syke. +1 pets{hide}",
 
