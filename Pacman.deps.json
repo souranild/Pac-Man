@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0/linux-x64",
-    "signature": "fc4c0e3498773dc92b5b76092cbcc16ef2ca647b"
+    "signature": "8ecf73a4249a4a55f8ee9478e843693db300cae1"
   },
   "compilationOptions": {},
   "targets": {
@@ -21,6 +21,7 @@
           "Microsoft.Extensions.Configuration": "2.1.1",
           "Microsoft.Extensions.Configuration.Json": "2.1.1",
           "Microsoft.NETCore.App": "2.0.0",
+          "System.Data.SQLite": "1.0.108",
           "System.Data.SQLite.Core": "1.0.108"
         },
         "runtime": {
@@ -745,6 +746,7 @@
           "runtime.unix.System.Console": "4.3.0"
         }
       },
+      "System.Data.SQLite/1.0.108": {},
       "System.Data.SQLite.Core/1.0.108": {
         "runtime": {
           "lib/net46/System.Data.SQLite.dll": {}
@@ -2126,6 +2128,13 @@
       "sha512": "sha512-DHDrIxiqk1h03m6khKWV2X8p/uvN79rgSqpilL6uzpmSfxfU5ng8VcPtW4qsDsQDHiTv6IPV9TmD5M/vElPNLg==",
       "path": "system.console/4.3.0",
       "hashPath": "system.console.4.3.0.nupkg.sha512"
+    },
+    "System.Data.SQLite/1.0.108": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QIh+GB+erDrvVIbEpEfVRF1U9fJOwmZCRyAPISDwmt8xn3vilM2xjEjr6hQBTI4a2uPxsn6cihT9BJwXAnM8eQ==",
+      "path": "system.data.sqlite/1.0.108",
+      "hashPath": "system.data.sqlite.1.0.108.nupkg.sha512"
     },
     "System.Data.SQLite.Core/1.0.108": {
       "type": "package",
