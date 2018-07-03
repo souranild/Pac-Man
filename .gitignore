@@ -7,7 +7,6 @@ games/*
 logs/*
 src/*
 
-wakaexclude.bot
-prefixes.bot
-scoreboard.bot
-config.bot
+config.json
+*.sqlite
+*.db
