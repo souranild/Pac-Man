@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0/linux-x64",
-    "signature": "42568283ebe9d2106c849ce4826c33c3f5633d7c"
+    "signature": "17cbe074017917fbfece8f2cb3e3ffded7c96925"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,13 +9,13 @@
     ".NETCoreApp,Version=v2.0/linux-x64": {
       "Pacman/1.0.0": {
         "dependencies": {
-          "Discord.Net": "2.0.0-beta2-00970",
-          "Discord.Net.Commands": "2.0.0-beta2-00970",
-          "Discord.Net.Core": "2.0.0-beta2-00970",
-          "Discord.Net.Rest": "2.0.0-beta2-00970",
+          "Discord.Net": "2.0.0-beta2-00973",
+          "Discord.Net.Commands": "2.0.0-beta2-00973",
+          "Discord.Net.Core": "2.0.0-beta2-00973",
+          "Discord.Net.Rest": "2.0.0-beta2-00973",
           "Discord.Net.Rpc": "2.0.0-beta-00860",
-          "Discord.Net.WebSocket": "2.0.0-beta2-00970",
-          "Discord.Net.Webhook": "2.0.0-beta2-00970",
+          "Discord.Net.WebSocket": "2.0.0-beta2-00973",
+          "Discord.Net.Webhook": "2.0.0-beta2-00973",
           "Microsoft.CodeAnalysis.CSharp": "2.8.2",
           "Microsoft.CodeAnalysis.Scripting": "2.8.2",
           "Microsoft.Data.Sqlite": "2.1.0",
@@ -28,25 +28,25 @@
           "Pacman.dll": {}
         }
       },
-      "Discord.Net/2.0.0-beta2-00970": {
+      "Discord.Net/2.0.0-beta2-00973": {
         "dependencies": {
-          "Discord.Net.Commands": "2.0.0-beta2-00970",
-          "Discord.Net.Core": "2.0.0-beta2-00970",
-          "Discord.Net.Rest": "2.0.0-beta2-00970",
-          "Discord.Net.WebSocket": "2.0.0-beta2-00970",
-          "Discord.Net.Webhook": "2.0.0-beta2-00970"
+          "Discord.Net.Commands": "2.0.0-beta2-00973",
+          "Discord.Net.Core": "2.0.0-beta2-00973",
+          "Discord.Net.Rest": "2.0.0-beta2-00973",
+          "Discord.Net.WebSocket": "2.0.0-beta2-00973",
+          "Discord.Net.Webhook": "2.0.0-beta2-00973"
         }
       },
-      "Discord.Net.Commands/2.0.0-beta2-00970": {
+      "Discord.Net.Commands/2.0.0-beta2-00973": {
         "dependencies": {
-          "Discord.Net.Core": "2.0.0-beta2-00970",
+          "Discord.Net.Core": "2.0.0-beta2-00973",
           "Microsoft.Extensions.DependencyInjection": "2.1.1"
         },
         "runtime": {
           "lib/netstandard2.0/Discord.Net.Commands.dll": {}
         }
       },
-      "Discord.Net.Core/2.0.0-beta2-00970": {
+      "Discord.Net.Core/2.0.0-beta2-00973": {
         "dependencies": {
           "Newtonsoft.Json": "11.0.2",
           "System.Collections.Immutable": "1.5.0",
@@ -56,9 +56,9 @@
           "lib/netstandard2.0/Discord.Net.Core.dll": {}
         }
       },
-      "Discord.Net.Rest/2.0.0-beta2-00970": {
+      "Discord.Net.Rest/2.0.0-beta2-00973": {
         "dependencies": {
-          "Discord.Net.Core": "2.0.0-beta2-00970"
+          "Discord.Net.Core": "2.0.0-beta2-00973"
         },
         "runtime": {
           "lib/netstandard2.0/Discord.Net.Rest.dll": {}
@@ -66,8 +66,8 @@
       },
       "Discord.Net.Rpc/2.0.0-beta-00860": {
         "dependencies": {
-          "Discord.Net.Core": "2.0.0-beta2-00970",
-          "Discord.Net.Rest": "2.0.0-beta2-00970",
+          "Discord.Net.Core": "2.0.0-beta2-00973",
+          "Discord.Net.Rest": "2.0.0-beta2-00973",
           "NETStandard.Library": "2.0.0",
           "System.Net.WebSockets.Client": "4.3.1"
         },
@@ -75,20 +75,20 @@
           "lib/netstandard1.3/Discord.Net.Rpc.dll": {}
         }
       },
-      "Discord.Net.Webhook/2.0.0-beta2-00970": {
+      "Discord.Net.Webhook/2.0.0-beta2-00973": {
         "dependencies": {
-          "Discord.Net.Core": "2.0.0-beta2-00970",
-          "Discord.Net.Rest": "2.0.0-beta2-00970",
+          "Discord.Net.Core": "2.0.0-beta2-00973",
+          "Discord.Net.Rest": "2.0.0-beta2-00973",
           "NETStandard.Library": "2.0.0"
         },
         "runtime": {
           "lib/netstandard1.3/Discord.Net.Webhook.dll": {}
         }
       },
-      "Discord.Net.WebSocket/2.0.0-beta2-00970": {
+      "Discord.Net.WebSocket/2.0.0-beta2-00973": {
         "dependencies": {
-          "Discord.Net.Core": "2.0.0-beta2-00970",
-          "Discord.Net.Rest": "2.0.0-beta2-00970"
+          "Discord.Net.Core": "2.0.0-beta2-00973",
+          "Discord.Net.Rest": "2.0.0-beta2-00973"
         },
         "runtime": {
           "lib/netstandard2.0/Discord.Net.WebSocket.dll": {}
@@ -1710,33 +1710,33 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Discord.Net/2.0.0-beta2-00970": {
+    "Discord.Net/2.0.0-beta2-00973": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-56co68VKclkyrjUQQs/IsUttFq9jR97szyJzxk9KXZbTyZoUUd02rDD2Nd7W3rrJ+ZEGuysHXE6YAPBBUWrcWg==",
-      "path": "discord.net/2.0.0-beta2-00970",
-      "hashPath": "discord.net.2.0.0-beta2-00970.nupkg.sha512"
+      "sha512": "sha512-/A2bAMtTz5p3OIaimmrYQO1fTQcwa6CrAZd9hH19ySF7b5+9r4+Tdx21lT+Yxs48Pa3zwqA4pH3WDKm3xmcJ+g==",
+      "path": "discord.net/2.0.0-beta2-00973",
+      "hashPath": "discord.net.2.0.0-beta2-00973.nupkg.sha512"
     },
-    "Discord.Net.Commands/2.0.0-beta2-00970": {
+    "Discord.Net.Commands/2.0.0-beta2-00973": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-fOX+MrLTqHX4vilkodhDgz9rWSMhEAjH0RJ97YpMsSFqpKnPyuJflqG4uaxhbdOeVJf+B1NSgAwPlV3cXZCiGA==",
-      "path": "discord.net.commands/2.0.0-beta2-00970",
-      "hashPath": "discord.net.commands.2.0.0-beta2-00970.nupkg.sha512"
+      "sha512": "sha512-9k7blKkTr3A1sTfV3D5DemCbPF3MRnHZsW2ACQjY1U5OdOCoBo3myhd5516+87n0ZhP6f6FDkpPvMS3OdcX34g==",
+      "path": "discord.net.commands/2.0.0-beta2-00973",
+      "hashPath": "discord.net.commands.2.0.0-beta2-00973.nupkg.sha512"
     },
-    "Discord.Net.Core/2.0.0-beta2-00970": {
+    "Discord.Net.Core/2.0.0-beta2-00973": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-/CKOi5U7ZcYLGem1PJ0shizCdbPkXVw7u3YIABA1Yfx498gvIP2Jt+4WqzDXcdC3BAuGqJOZIOXxgshETDaVsQ==",
-      "path": "discord.net.core/2.0.0-beta2-00970",
-      "hashPath": "discord.net.core.2.0.0-beta2-00970.nupkg.sha512"
+      "sha512": "sha512-qHT3fW1bppAqPBthQEyLkGClTrcKapX2KVE07zL5ILGTYmS/mvHP0Jb3HxBCSU2wWwlX2PPXTFHbv752bJtcMA==",
+      "path": "discord.net.core/2.0.0-beta2-00973",
+      "hashPath": "discord.net.core.2.0.0-beta2-00973.nupkg.sha512"
     },
-    "Discord.Net.Rest/2.0.0-beta2-00970": {
+    "Discord.Net.Rest/2.0.0-beta2-00973": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-u+/9THvUMZUWmCIm1GUHGTww3wzi2SEyxNzOvpFzB0Vr2AKmmtTeJyB0ZQ6Jdei6TAOhcLvvAxtGLKT2eU7nVQ==",
-      "path": "discord.net.rest/2.0.0-beta2-00970",
-      "hashPath": "discord.net.rest.2.0.0-beta2-00970.nupkg.sha512"
+      "sha512": "sha512-riAw2y/H4HQPgGHwDdy6194tSxoe3EEK+B7zyntT9EjEzXRfaIL4sqc+tFalaXuTkCIGGpkLKMqE9c6rh7K1PA==",
+      "path": "discord.net.rest/2.0.0-beta2-00973",
+      "hashPath": "discord.net.rest.2.0.0-beta2-00973.nupkg.sha512"
     },
     "Discord.Net.Rpc/2.0.0-beta-00860": {
       "type": "package",
@@ -1745,19 +1745,19 @@
       "path": "discord.net.rpc/2.0.0-beta-00860",
       "hashPath": "discord.net.rpc.2.0.0-beta-00860.nupkg.sha512"
     },
-    "Discord.Net.Webhook/2.0.0-beta2-00970": {
+    "Discord.Net.Webhook/2.0.0-beta2-00973": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-E+rhzbULLSuL2C0ItUWI7TY3QyKfx+iitK3v9w8LNbMoEvqo9p0iwBlGqRMIoKsFGHC/uMu0Cm1B96SYXMr4/A==",
-      "path": "discord.net.webhook/2.0.0-beta2-00970",
-      "hashPath": "discord.net.webhook.2.0.0-beta2-00970.nupkg.sha512"
+      "sha512": "sha512-eEBCBj6/rwUeNcADsCxRzCynyKrHAnanChwkbwCbIixUPXXA4hl+1jjQDm7HTptM3tmxNPSyKvWSZAZuJgfOTQ==",
+      "path": "discord.net.webhook/2.0.0-beta2-00973",
+      "hashPath": "discord.net.webhook.2.0.0-beta2-00973.nupkg.sha512"
     },
-    "Discord.Net.WebSocket/2.0.0-beta2-00970": {
+    "Discord.Net.WebSocket/2.0.0-beta2-00973": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-mQLKYuOI5xpRcsZjZ71rB9aYpHjljlB+rcy96yytwjRnTBEcKqNGkAO0qTmdFuuvOyGntBBwYwxVvtDxXFNNMQ==",
-      "path": "discord.net.websocket/2.0.0-beta2-00970",
-      "hashPath": "discord.net.websocket.2.0.0-beta2-00970.nupkg.sha512"
+      "sha512": "sha512-/Ddkk2clQ73s6/6SEQDuUsv5CI2CbFmsGRYicbOohzMvISmgv/05+g3MvRvzJvWEdlqznwlb2SwhS98F9zs6YQ==",
+      "path": "discord.net.websocket/2.0.0-beta2-00973",
+      "hashPath": "discord.net.websocket.2.0.0-beta2-00973.nupkg.sha512"
     },
     "Microsoft.CodeAnalysis.Analyzers/1.1.0": {
       "type": "package",
