@@ -1,14 +1,15 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0/linux-x64",
-    "signature": "2b895560f02f81ecdee8a4b19c27cb634b5692ff"
+    "signature": "bded0ff82a2f20f19f5890115428243914225bdf"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {},
     ".NETCoreApp,Version=v2.0/linux-x64": {
-      "Pacman/4.1.1": {
+      "Pacman/4.1.2": {
         "dependencies": {
+          "Discord.Addons.EmojiTools": "2.0.2",
           "Discord.Net": "2.0.1",
           "Discord.Net.Commands": "2.0.1",
           "Discord.Net.Core": "2.0.1",
@@ -24,12 +25,23 @@
           "Microsoft.Extensions.Configuration.Json": "2.2.0",
           "Microsoft.NETCore.App": "2.0.9",
           "Serilog": "2.8.0",
-          "Serilog.Extensions.Logging": "2.0.2",
           "Serilog.Sinks.Console": "3.1.1",
           "Serilog.Sinks.RollingFile": "3.3.0"
         },
         "runtime": {
           "Pacman.dll": {}
+        }
+      },
+      "Discord.Addons.EmojiTools/2.0.2": {
+        "dependencies": {
+          "Discord.Net.Core": "2.0.1",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.1/Discord.Addons.EmojiTools.dll": {
+            "assemblyVersion": "2.0.2.0",
+            "fileVersion": "2.0.2.0"
+          }
         }
       },
       "Discord.Net/2.0.1": {
@@ -1621,18 +1633,6 @@
           }
         }
       },
-      "Serilog.Extensions.Logging/2.0.2": {
-        "dependencies": {
-          "Microsoft.Extensions.Logging": "2.2.0",
-          "Serilog": "2.8.0"
-        },
-        "runtime": {
-          "lib/netstandard2.0/Serilog.Extensions.Logging.dll": {
-            "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.2.0"
-          }
-        }
-      },
       "Serilog.Sinks.Console/3.1.1": {
         "dependencies": {
           "Serilog": "2.8.0",
@@ -2610,10 +2610,17 @@
     }
   },
   "libraries": {
-    "Pacman/4.1.1": {
+    "Pacman/4.1.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Discord.Addons.EmojiTools/2.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qhy4WJ3f8wzeZkwAoHvzK48+yrUSnR87b8e+CMWvy4k9egyhbug3DR3ZjpucI+MWj5KtkKlhO7EnLhMfFsiKYg==",
+      "path": "discord.addons.emojitools/2.0.2",
+      "hashPath": "discord.addons.emojitools.2.0.2.nupkg.sha512"
     },
     "Discord.Net/2.0.1": {
       "type": "package",
@@ -3286,13 +3293,6 @@
       "sha512": "sha512-3jtlNpLFGz16ZEYZ0lohfUlVLspg+DW6kRVNC2rOtie6Xy+fIibtqFSZ6lQRdRKV6ER9WLxg+Q3em6f6ZccJ3A==",
       "path": "serilog/2.8.0",
       "hashPath": "serilog.2.8.0.nupkg.sha512"
-    },
-    "Serilog.Extensions.Logging/2.0.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-6zGo0AmWHWVICQ49DiODo9qboYKTqpg9osNWS0TBdRk/Af8HDgWsK+rYfl7TuNyzRgVhFZMbBElqjPyBQ2AQLg==",
-      "path": "serilog.extensions.logging/2.0.2",
-      "hashPath": "serilog.extensions.logging.2.0.2.nupkg.sha512"
     },
     "Serilog.Sinks.Console/3.1.1": {
       "type": "package",
