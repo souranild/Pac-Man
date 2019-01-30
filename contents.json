@@ -80,7 +80,7 @@ To win, you must collect all the pellets, while avoiding the ghosts. Try to get 
 
 "customHelp":
 "You can play Pac-Man using your own custom maps!
-To start a custom game, send **{prefix}play \\`\\`\\`map\\`\\`\\`** or **{prefix}play mobile \\`\\`\\`map\\`\\`\\`**
+To start a custom game, send **{prefix}pacman \\`\\`\\`map\\`\\`\\`** or **{prefix}pacman mobile \\`\\`\\`map\\`\\`\\`**
 
 **__Guidelines__**
 **1.** Maps must have constant width on all lines.
