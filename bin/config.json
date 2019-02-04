@@ -1,7 +1,7 @@
 {
-  "discordToken": "",
+  "discordToken": "NDcyNjE1MjY2MTAzMzI4Nzc4.DuIuYA.UBvX-fUxG6-Ffb7ZHIqQ1HxjZk8",
   
-  "defaultPrefix": "<",
+  "defaultPrefix": "<<",
   "messageCacheSize": 100,
   "clientLogLevel": "Verbose",
   "commandLogLevel": "Info"
